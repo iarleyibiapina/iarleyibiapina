@@ -1,20 +1,7 @@
--------------------------
-Hi, I’m @iarleyibiapina
-I’m Currently learning 
-_Js
-_HTML5 
-_CSS3
-_PHP
-_TAILWINDCSS
-_Docker
-_Ubuntu
-_Laravel 10.x
--------------------------
+#Olá me chamo Iarley Ibiapina
 Pretendo me tornar um Desenvolvedor Web em PHP
 
-Estou cursando Analise e Desenvolvimento de Sistemas pela UNIFAMETRO e estou no 2º Semestre
-
-OS principal: windows 10, mas utilizo maquina virtual com uma imagem Ubuntu 22.0 LTS
+Estou cursando Analise e Desenvolvimento de Sistemas pela UNIFAMETRO e estou no 2º Semestre.
 
 Sou apaixonado por hardwate tambem e amo ouvir e descobrir o setup de todos que conheço então aqui vai meu setup:
 cpu: Intel Xeon E5-2630-V3 8/16 (equivalente a um i7 6700)
@@ -26,3 +13,24 @@ ssd-sata: 1x512 e 1x256
 fonte: 500W 80+ bronze reddragon;
 gabinete: gamer ninja
 (meu primeiro pc, mas no futuro pretendo trocar para um Kit Ryzen)
+
+**OS:**
+[![Windows](https://badgen.net/badge/icon/Windows?icon=window&label)](https://microsoft.com/windows/)
+[![Ubuntu](https://badgen.net/badge/icon/Ubuntu?icon=Ubuntu&label)](https://microsoft.com/ubuntu/)
+
+**Containers:**
+[![Generic badge](https://img.shields.io/badge/Docker--blue.svg)](https://shields.io/)
+
+**Marcação e estilização**
+[![Generic badge](https://img.shields.io/badge/HTML5--orange.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/CSS3--blue.svg)](https://shields.io/)
+
+**Bibliotecas:**
+[![Generic badge](https://img.shields.io/badge/TailWindCss--blue.svg)](https://shields.io/)
+
+**Linguagens:**
+[![Generic badge](https://img.shields.io/badge/Javascript--yellow.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/PHP--blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Laravel_10--orange.svg)](https://shields.io/)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iarleyibiapina&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
