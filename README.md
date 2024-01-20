@@ -1,11 +1,11 @@
 #Olá me chamo Iarley Ibiapina
 Pretendo me tornar um Desenvolvedor Web em PHP
 
-Estou cursando Analise e Desenvolvimento de Sistemas pela UNIFAMETRO e estou no 2º Semestre.
+Estou cursando Analise e Desenvolvimento de Sistemas pela UNIFAMETRO e estou no 3º Semestre.
 
 Sou apaixonado por hardwate tambem e amo ouvir e descobrir o setup de todos que conheço então aqui vai meu setup:
 cpu: Intel Xeon E5-2630-V3 8/16 (equivalente a um i7 6700)
-cooler: GMRGB GF206s argb 6 heatpipe 220W (cpu nao passa dos 50º)
+cooler: GMRGB GF206s argb 6 heatpipe 220W 
 ram: 2x8 ddr4 2133Mhz
 placa mae: machinist x99 
 gpu: rx 580 2048sp (uma 570)
