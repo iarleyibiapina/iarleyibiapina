@@ -1,18 +1,7 @@
 #Olá me chamo Iarley Ibiapina
 Pretendo me tornar um Desenvolvedor Web em PHP
 
-Estou cursando Analise e Desenvolvimento de Sistemas pela UNIFAMETRO e estou no 3º Semestre.
-
-Sou apaixonado por hardwate tambem e amo ouvir e descobrir o setup de todos que conheço então aqui vai meu setup:
-cpu: Intel Xeon E5-2630-V3 8/16 (equivalente a um i7 6700)
-cooler: GMRGB GF206s argb 6 heatpipe 220W 
-ram: 2x8 ddr4 2133Mhz
-placa mae: machinist x99 
-gpu: rx 580 2048sp (uma 570)
-ssd-sata: 1x512 e 1x256
-fonte: 500W 80+ bronze reddragon;
-gabinete: gamer ninja
-(meu primeiro pc, mas no futuro pretendo trocar para um Kit Ryzen)
+Estou cursando Analise e Desenvolvimento de Sistemas pela UNIFAMETRO e estou no 4º Semestre.
 
 **OS:**
 [![Windows](https://badgen.net/badge/icon/Windows?icon=window&label)](https://microsoft.com/windows/)
